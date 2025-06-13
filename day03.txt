@@ -46,7 +46,7 @@ git 실습  -> git 명령어 -> java란 -> java 설치(jdk17, 이클립스)
 	고급언어 : 사람이 이해하기 쉬운 언어
 		 Java python c++
 		 일상 언어에서 사용하는 표현을 그대로 가져다 쓸 수 있음
-		 인식성이 높음(운영체제에 따른 영향을 받지 않는다.)
+		 이식성이 높음(운영체제에 따른 영향을 받지 않는다.)
 		 
 	
 3) 번역 프로그램
@@ -107,12 +107,12 @@ git 실습  -> git 명령어 -> java란 -> java 설치(jdk17, 이클립스)
 	이미 있거나 과거 버전이라면 삭제 권장
 
 2) JDK 설치
-	1.	구글 검색창에 JDK17 검색
-	2.	제일 상단의 오라클 홈페이지 접속
-	3. 	windows x64 Installer exe 파일 다운로드
-		mac m1 칩 arm64 DMG Installer 파일 다운로드 -> 맥일경우
-	4.	설치 프로그램 실행 > 설치 경로 중에 Program Files 경로 제거(C:\java\)
-	5.	설치 완료 후 cmd > java -version, javac -version
+	구글 검색창에 JDK17 검색
+	제일 상단의 오라클 홈페이지 접속
+	windows x64 Installer exe 파일 다운로드
+	mac m1 칩 arm64 DMG Installer 파일 다운로드 -> 맥일경우
+	설치 프로그램 실행 > 설치 경로 중에 Program Files 경로 제거(C:\java\)
+	설치 완료 후 cmd > java -version, javac -version
 
 3) IDE(통합 개발 환경)
 - 이클립스 설치(intellij : 유료)
