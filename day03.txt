@@ -74,7 +74,7 @@ git 실습  -> git 명령어 -> java란 -> java 설치(jdk17, 이클립스)
 		하드웨어			하드웨어
 
 - JVM(Java Virtual Machine) : 
-	운영체제 맞춰서 java로 만든 프로그램을 실행시켜준다.
+	운영체제에 상관없이 java로 만든 프로그램을 실행시켜준다.
 
 - JRE(Java Runtime Enviroment)
 	JVM 실행한다.
